@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block02</string>
+    <string name="textView_prompt">Pasirinkite gyvuna:</string>
+    <string name="dog">Suo</string>
+    <string name="cat">Kate</string>
+    <string name="pig">Kiaule</string>
+    <string name="horse">Arklys</string>
+    <string name="TextMessage">"Jusu pasirinkimas: "</string>
+</resources>
